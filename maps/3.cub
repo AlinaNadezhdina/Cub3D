@@ -1,0 +1,12 @@
+C 200,20,8
+F 0,45,100
+
+NO ./textures/ice_north.xpm
+SO ./textures/grass_south.xpm
+WE ./textures/beam_west.xpm
+EA ./textures/brick_east.xpm
+
+1111111111
+10N0000001
+1000000001
+1111111111
